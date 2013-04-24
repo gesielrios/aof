@@ -83,15 +83,15 @@ How to participate ?
 
 [What has been done](https://github.com/cejug/aof/wiki/What-has-been-done)
 
-### Sobre o AdoptOpenJDK
+### About the AdoptOpenJDK
 
-#### O que é ?
+#### What is ?
 
-* O AdoptOpenJDK é uma iniciativa de Jug Leaders para melhorar a participação no OpenJDK.
-- Grupos de Jug members atuam em aspectos do OpenJDK
-- Várias atividades desde simples até avançadas
+* A JUG lead initiative to improve participation in the OpenJDK
+  - Groups of JUG members work on aspects of the OpenJDK
+  - Wide range of activities from starter to advanced levels
 
-#### Objetivos :
+#### Goals :
     
 * Mover a linguagem e a plataforma para frente
   - Tornar-se parte da solução em vez de apenas se queixar
