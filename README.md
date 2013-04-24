@@ -54,8 +54,6 @@ Como participar do AOF ?
 
 * [Ler sobre os níveis de contribuição](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK)
 
-* Gerenciar listas de emails
-
 * Testar / Fazer builds
 
 * Evangelizar e divulgar
@@ -93,43 +91,40 @@ How to participate ?
 
 #### Goals :
     
-* Mover a linguagem e a plataforma para frente
-  - Tornar-se parte da solução em vez de apenas se queixar
-  - Ajudar a definir o futuro
+* To move the language and the platform forward
+ - To become part of the solution as opposed to complaining
+ - Help define the future
  
 
-* Dar algo de volta para a plataforma que sustenta todos nós
-  - Sem falar de grande parte da nossa civilização !
+* To give something back to the platform that sustains us all
+ - Not to mention large chunks of our civilisation!
  
+* To be at the forefront of the latest Java technology
 
-* Estar na vanguarda da mais recente tecnologia java
+* To make sure useful libraries and APIs get built
 
-* Garantir que o build due biliotecas úteis estão funcionando.
+* To boost the careers of JUG members
 
-* Impulsionar a carreira dos membros do JUG
-
-* Desmistificar o OpenJDK
-  - Obter conhecimento dos desenvolvedores no dia-a-dia do processo
+* To demystify OpenJDK
+  - Get day to day developers knowledgable about the process
 
 
-* Adquirir conhecimento
-  - Adquirir habilidades técnicas valiosas
-  - Aprender uma nova parte do ecossistema Java
+* To acquire new knowledge
+  - Gain valuable technical skills
+  - Learn a brand new part of the Java ecosystem
 
 
 #### O que fazer ?
 
-* [Ler sobre os níveis de contribuição](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK)
+* [Read about the contribution levels](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK)
 
-* Gerenciar listas de emails
+* Testing
 
-* Testar / Fazer builds
+* Evangelism
 
-* Evangelizar e divulgar
+* Participate in projects and scripts that help in the process
 
-* Participar de projetos e scripts que ajudam no processo
-
-fonte : http://java.net/downloads/adoptopenjdk/AdoptOpenJDK.ppt
+source : http://java.net/downloads/adoptopenjdk/AdoptOpenJDK.ppt
 
 ***
 
