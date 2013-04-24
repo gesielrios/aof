@@ -64,3 +64,4 @@ Como participar do AOF ?
 
 * Participar de projetos e scripts que ajudam no processo
 
+fonte : http://java.net/downloads/adoptopenjdk/AdoptOpenJDK.ppt
