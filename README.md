@@ -18,14 +18,14 @@ destacando o indivíduo e a comunidade.
 #### O que é ?
 
 * O AdoptOpenJDK é uma iniciativa de Jug Leaders para melhorar a participação no OpenJDK.
-   - Grupos de Jug members atuam em aspectos do OpenJDK
-   - Várias atividades desde simples até avançadas
+- Grupos de Jug members atuam em aspectos do OpenJDK
+- Várias atividades desde simples até avançadas
 
 #### Objetivos :
     
 * Mover a linguagem e a plataforma para frente
- - Tornar-se parte da solução em vez de apenas se queixar
- - Ajudar a definir o futuro
+- Tornar-se parte da solução em vez de apenas se queixar
+- Ajudar a definir o futuro
  
 * Dar algo de volta para a plataforma que sustenta todos nós
  - Sem falar de grande parte da nossa civilização !
@@ -40,8 +40,8 @@ destacando o indivíduo e a comunidade.
 - Obter conhecimento dos desenvolvedores no dia-a-dia do processo
 
 * Adquirir conhecimento
-  - Adquirir habilidades técnicas valiosas
-  - Aprender uma nova parte do ecossistema Java
+- Adquirir habilidades técnicas valiosas
+- Aprender uma nova parte do ecossistema Java
 
 #### O que fazer ?
 
