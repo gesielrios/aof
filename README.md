@@ -27,9 +27,11 @@ destacando o indivíduo e a comunidade.
   - Tornar-se parte da solução em vez de apenas se queixar
   - Ajudar a definir o futuro
  
+
 * Dar algo de volta para a plataforma que sustenta todos nós
   - Sem falar de grande parte da nossa civilização !
  
+
 * Estar na vanguarda da mais recente tecnologia java
 
 * Garantir que o build due biliotecas úteis estão funcionando.
@@ -39,13 +41,15 @@ destacando o indivíduo e a comunidade.
 * Desmistificar o OpenJDK
   - Obter conhecimento dos desenvolvedores no dia-a-dia do processo
 
+
 * Adquirir conhecimento
   - Adquirir habilidades técnicas valiosas
   - Aprender uma nova parte do ecossistema Java
 
+
 #### O que fazer ?
 
-* (Ler sobre os níveis de contribuição)[https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK]
+* [Ler sobre os níveis de contribuição](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK)
 
 * Gerenciar listas de emails
 
