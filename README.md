@@ -5,20 +5,14 @@ AOF
 
 O AOF é um centralizador de feedback organizado pelo CEJUG para o programa AdoptOpenJDK.
 
-O objetivo é organizar e facilitar ainda mais a participação dos membros do CEJUG 
-destacando o indivíduo e a comunidade.
-
-Para que serve ?
-
-* Reunir e organizar as tentativas e as iniciativas em torno do programa AdoptOpenJDK e divulgar o status do que já foi feito.
-
-* Serve para colocar no CV
+O objetivo é organizar e facilitar ainda mais a participação dos membros do CEJUG destacando o indivíduo e a comunidade e
+divulgando o que já foi feito.
 
 Como participar do AOF ?
 
-1 Ser membro do CEJUG no [google groups](https://groups.google.com/d/forum/cejug) e no [Yougi](http://www.cejug.org/ug/registration.xhtml):
+1. Ser membro do CEJUG no [google groups](https://groups.google.com/d/forum/cejug) e no [Yougi](http://www.cejug.org/ug/registration.xhtml):
 
-2 Conhecer e acompanhar esse projeto aqui participando dos [issues](https://github.com/cejug/aof/issues?state=open)
+2. Conhecer e acompanhar esse projeto aqui participando dos [issues](https://github.com/cejug/aof/issues?state=open)
 
 [O que já foi feito](https://github.com/cejug/aof/wiki/What-has-been-done)
 
