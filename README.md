@@ -114,7 +114,7 @@ How to participate ?
   - Learn a brand new part of the Java ecosystem
 
 
-#### O que fazer ?
+#### What to do ?
 
 * [Read about the contribution levels](https://java.net/projects/adoptopenjdk/pages/AdoptOpenJDK)
 
