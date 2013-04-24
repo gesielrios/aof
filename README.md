@@ -131,3 +131,14 @@ How to participate ?
 
 fonte : http://java.net/downloads/adoptopenjdk/AdoptOpenJDK.ppt
 
+***
+
+AOF-Team
+
+[Daniel Cunha](http://danielsoro.github.io)
+
+[Helio Frota](http://www.heliofrota.com)
+
+[Hildeberto Mendonça](http://www.hildeberto.com)
+
+[Levy Moreira](http://www.levymoreira.com/)
